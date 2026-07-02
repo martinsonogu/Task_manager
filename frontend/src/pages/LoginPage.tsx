@@ -54,11 +54,11 @@ export default function LoginPage() {
             </button>
           </form>
 
-          <div className="mt-6 p-4 bg-gray-50 rounded-xl text-xs text-gray-500 space-y-1">
+          {/* <div className="mt-6 p-4 bg-gray-50 rounded-xl text-xs text-gray-500 space-y-1">
             <p className="font-semibold text-gray-600 mb-2">Demo credentials</p>
             <p>Admin: admin@opsplatform.com / admin1234</p>
             <p>Staff: alice@opsplatform.com / staff1234</p>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>
